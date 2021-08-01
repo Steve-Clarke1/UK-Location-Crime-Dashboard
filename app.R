@@ -1,8 +1,5 @@
 # Set Up -----
 ## Libraries -----
-#packages <- c("shiny", "dplyr", "jsonlite", "plotly", "curl", "geodist", "shinyWidgets", "bs4Dash", "fresh", "shinycssloaders", "DT", "formattable", "leaflet")
-#lapply(packages, library, character.only = TRUE)
-
 library(shiny)
 library(leaflet)
 library(dplyr) 
